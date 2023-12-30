@@ -47,23 +47,20 @@ body{
 }
 
 .btn-busca {
-    width: 30px;
+    width: 300px;
     padding: 6px;
     opacity: 0.8;
 }
 
 .informacao-principal {
-    background-color: black;
     margin: 30px;    
 }
 
 .informacao-principal h1 {
-    background-color: blue;
     font-size: 19px;
 }
 
 .informacao-principal .temperatura {
-    background-color: red;
     font-size: 68px;
     margin: 20px 0;
 }
