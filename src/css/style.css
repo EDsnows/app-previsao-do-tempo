@@ -57,7 +57,7 @@ body{
 }
 
 .informacao-principal h1 {
-    font-size: 19px;
+    font-size: 18px;
 }
 
 .informacao-principal .temperatura {
@@ -67,7 +67,6 @@ body{
 
 .informacao-principal .condicao{
     font-size: 20px;
-    margin: 20px;
 }
 
 .informacao-secundaria {
@@ -78,13 +77,7 @@ body{
     border-bottom-right-radius: 15px;
 }
 
-.informacao-secundaria .humidade{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px 0;
-}
-
+.informacao-secundaria .humidade,
 .informacao-secundaria .velocidade-do-vento{
     display: flex;
     justify-content: space-between;
